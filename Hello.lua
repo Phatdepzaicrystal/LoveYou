@@ -11263,7 +11263,7 @@ ToggleIsland:OnChanged(
                 elseif _G.SelectIsland == "Mini Sky Island" then
                     toTarget(CFrame.new(-288.74060058594, 49326.31640625, -35248.59375))
                 elseif _G.SelectIsland == "Great Tree" then
-                    toTarget(CFrame.new(2681.2736816406, 1682.8092041016, -7190.9853515625))
+                    toTarget(CFrame.new(3034.3115234375, 2280.7568359375, -7321.7060546875))
                 elseif _G.SelectIsland == "Castle On The Sea" then
                     BTPZ(CFrame.new(-5075.50927734375, 314.5155029296875, -3150.0224609375))
                 elseif _G.SelectIsland == "MiniSky" then
